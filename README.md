@@ -3,7 +3,7 @@ Projeto feito pelos alunos Gabriel Mello e Luan Kol do IFB, sob supervisão do p
 
 Guia de uso
 
--
+- Criar Banco de dados utilizando scripts da pasta database
 -
 -
 -
