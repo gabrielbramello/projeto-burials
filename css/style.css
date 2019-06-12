@@ -1,4 +1,10 @@
-body{
-    padding-top: 100px;
-    width:70%;
+.navbar{
+    margin-bottom: 100px;
+}
+
+.page-footer{
+    margin-top: 100px;
+}
+div#busca-principal{
+    margin-bottom: 100px;
 }
